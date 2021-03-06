@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/suman more" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="suman more" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suman-more-5937aa1b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="suman-more-5937aa1b0" height="30" width="40" /></a>
 <a href="https://instagram.com/suman_more2507" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="suman_more2507" height="30" width="40" /></a>
 </p>
 
