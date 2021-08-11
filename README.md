@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on **"Web Development"**
 
 - 📫 How to reach me **sumanmore322@gmail.com**
+-  <p>Click here to know more about me </p><a href =""https://sumanmore.github.io/portfolio/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
